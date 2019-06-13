@@ -20,6 +20,7 @@ expose:
     domain: kube.xiongyingqi.com
     exposer: Ingress
     http: "true"
+
 jenkins:
   Servers:
     Global:
