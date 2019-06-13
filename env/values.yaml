@@ -17,7 +17,7 @@ expose:
   - --v
   - 4
   config:
-    domain: 47.107.21.207.nip.io
+    domain: kube.xiongyingqi.com
     exposer: Ingress
     http: "true"
 jenkins:
